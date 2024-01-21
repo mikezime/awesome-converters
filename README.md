@@ -2,7 +2,7 @@
 
 ## Json Converters
 
-* [Json to Sqlite](http://www.whiterocksoftware.com/2019/04/json-to-sqlite.html){:target="_blank"}
+* [Json to Sqlite](http://www.whiterocksoftware.com/2019/04/json-to-sqlite.html)
 * [Json to Pdf](http://www.whiterocksoftware.com/2019/02/json-to-pdf.html)
 * [Json to Tab delimited](http://www.whiterocksoftware.com/2019/09/json-to-tab-delimited.html)
 * [Json Viewer](http://www.whiterocksoftware.com/2019/02/json-table-viewer.html)
